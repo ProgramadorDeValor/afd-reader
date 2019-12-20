@@ -539,7 +539,7 @@ class AfdReader
                         'date'            => $value['date']->format('dmY'),
                         'time'            => $value['time'],
                         'identityType'    => $value['identityType'],
-                        'idenitityNumber' => $value['idenitityNumber'],
+                        'identityNumber' => $value['identityNumber'],
                         'cei'             => $value['cei'],
                         'name'            => $value['name'],
                         'place'           => $value['place'],

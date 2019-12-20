@@ -37,7 +37,7 @@ class CompanyChange implements RegistryInterface
         6 => [
             'size' => 14,
             'type' => 'numeric',
-            'name' => 'idenitityNumber',
+            'name' => 'identityNumber',
         ],
         7 => [
             'size'  => 12,
